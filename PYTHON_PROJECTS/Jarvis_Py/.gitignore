@@ -1,0 +1,13 @@
+# Python environment and generated files
+.venv/
+__pycache__/
+*.py[cod]
+
+# Secrets and local configuration
+.env
+
+# Temporary text-to-speech audio
+temp.mp3
+
+# Editor settings
+.vscode/
